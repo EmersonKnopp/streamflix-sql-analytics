@@ -185,5 +185,5 @@ O total de assinantes (3.837) é maior que a última etapa do funil (3.285) porq
 
 ## Autor
 
-**Emerson Kauan**  
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+**EmersonKnopp******  
+[LinkedIn](https://www.linkedin.com/in/emerson-kauan-de-oliveira-knopp-65a28a2b9/?isSelfProfile=true).
